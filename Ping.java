@@ -36,6 +36,4 @@ public class Ping implements Runnable {
 
 test
 
-    
-
 
